@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Halla 👋
+I'm Learning programming and building projects in C++,python and web development.
 
-<!--
-**HallaMohammad/HallaMohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Tic-Tac-Toe in C++](https://github.com/HallaMohammad/tic-tac-toe-cpp): terminal game with replay and automated build (GitHub Actions)
+- [GASNOW Smart Gas App](https://github.com/HallaMohammad/GASNOW-Smart-Gas-App): smart gas ordering and delivery application for Jordan
+- [Average Calculator](https://github.com/HallaMohammad/average---calculator): average calculator in python 
+- [My To-Do List](https://github.com/HallaMohammad/my-todo-list): to-do list web app (HTML)
+- [My First Website](https://github.com/HallaMohammad/my-first-website): my first website (HTML)
+
+
+## Currently Learning
+
+- C++
+- Git and GitHub
+
+
