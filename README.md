@@ -1,5 +1,5 @@
 # Hi, I'm Halla 👋
-I'm Learning programming and building projects in C++,python and web development.
+I'm  Learning programming and building projects in C++ , python and web development.
 
 
 ## Projects
